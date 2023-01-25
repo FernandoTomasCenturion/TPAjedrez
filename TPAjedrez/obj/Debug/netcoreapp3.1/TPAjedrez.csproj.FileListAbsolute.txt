@@ -1,0 +1,15 @@
+C:\Users\tomas.arsenio\source\Repos\TPAjedrez\TPAjedrez\bin\Debug\netcoreapp3.1\TPAjedrez.exe
+C:\Users\tomas.arsenio\source\Repos\TPAjedrez\TPAjedrez\bin\Debug\netcoreapp3.1\TPAjedrez.deps.json
+C:\Users\tomas.arsenio\source\Repos\TPAjedrez\TPAjedrez\bin\Debug\netcoreapp3.1\TPAjedrez.runtimeconfig.json
+C:\Users\tomas.arsenio\source\Repos\TPAjedrez\TPAjedrez\bin\Debug\netcoreapp3.1\TPAjedrez.runtimeconfig.dev.json
+C:\Users\tomas.arsenio\source\Repos\TPAjedrez\TPAjedrez\bin\Debug\netcoreapp3.1\TPAjedrez.dll
+C:\Users\tomas.arsenio\source\Repos\TPAjedrez\TPAjedrez\bin\Debug\netcoreapp3.1\TPAjedrez.pdb
+C:\Users\tomas.arsenio\source\Repos\TPAjedrez\TPAjedrez\obj\Debug\netcoreapp3.1\TPAjedrez.Form1.resources
+C:\Users\tomas.arsenio\source\Repos\TPAjedrez\TPAjedrez\obj\Debug\netcoreapp3.1\TPAjedrez.csproj.GenerateResource.cache
+C:\Users\tomas.arsenio\source\Repos\TPAjedrez\TPAjedrez\obj\Debug\netcoreapp3.1\TPAjedrez.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tomas.arsenio\source\Repos\TPAjedrez\TPAjedrez\obj\Debug\netcoreapp3.1\TPAjedrez.AssemblyInfoInputs.cache
+C:\Users\tomas.arsenio\source\Repos\TPAjedrez\TPAjedrez\obj\Debug\netcoreapp3.1\TPAjedrez.AssemblyInfo.cs
+C:\Users\tomas.arsenio\source\Repos\TPAjedrez\TPAjedrez\obj\Debug\netcoreapp3.1\TPAjedrez.csproj.CoreCompileInputs.cache
+C:\Users\tomas.arsenio\source\Repos\TPAjedrez\TPAjedrez\obj\Debug\netcoreapp3.1\TPAjedrez.dll
+C:\Users\tomas.arsenio\source\Repos\TPAjedrez\TPAjedrez\obj\Debug\netcoreapp3.1\TPAjedrez.pdb
+C:\Users\tomas.arsenio\source\Repos\TPAjedrez\TPAjedrez\obj\Debug\netcoreapp3.1\TPAjedrez.genruntimeconfig.cache
