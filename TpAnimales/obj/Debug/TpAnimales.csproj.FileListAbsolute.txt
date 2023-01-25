@@ -1,0 +1,10 @@
+C:\Users\tomas.arsenio\source\Repos\TpAnimales\TpAnimales\obj\Debug\TpAnimales.Form1.resources
+C:\Users\tomas.arsenio\source\Repos\TpAnimales\TpAnimales\obj\Debug\TpAnimales.Properties.Resources.resources
+C:\Users\tomas.arsenio\source\Repos\TpAnimales\TpAnimales\obj\Debug\TpAnimales.csproj.GenerateResource.cache
+C:\Users\tomas.arsenio\source\Repos\TpAnimales\TpAnimales\obj\Debug\TpAnimales.csproj.CoreCompileInputs.cache
+C:\Users\tomas.arsenio\source\Repos\TpAnimales\TpAnimales\obj\Debug\TpAnimales.csproj.AssemblyReference.cache
+C:\Users\tomas.arsenio\source\Repos\TpAnimales\TpAnimales\bin\Debug\TpAnimales.exe.config
+C:\Users\tomas.arsenio\source\Repos\TpAnimales\TpAnimales\bin\Debug\TpAnimales.exe
+C:\Users\tomas.arsenio\source\Repos\TpAnimales\TpAnimales\bin\Debug\TpAnimales.pdb
+C:\Users\tomas.arsenio\source\Repos\TpAnimales\TpAnimales\obj\Debug\TpAnimales.exe
+C:\Users\tomas.arsenio\source\Repos\TpAnimales\TpAnimales\obj\Debug\TpAnimales.pdb
